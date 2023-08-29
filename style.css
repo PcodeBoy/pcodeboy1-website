@@ -1,0 +1,132 @@
+header{
+    padding:10px;
+    margin:10px;
+    }
+    ul{
+    list-style:none;
+    }
+    #header{
+    background:#484848;
+    padding:10px;
+    margin:5px;
+    }
+    h3{
+    font-size:24px;
+    margin:10px;
+    font-family: Arial, Helvetica, sans-serif;
+    }
+    h2{
+    text-transform: capitalize;
+    word-spacing: 1px;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align:left;
+    color:white;
+    }
+    h1{
+    text-transform: capitalize;
+    margin:10px;
+    font-family: Arial, Helvetica, sans-serif;
+    } 
+    p{
+    margin:10px;
+    font-size: 16px;
+     font-family: Arial, Helvetica, sans-serif;
+    } 
+    .hero-image {
+    background: URL("../image/images (3).jpg");
+    background-repeat:no-repeat;
+    background-size:cover;
+    position:relative;
+    padding-top:5%;
+    padding-bottom:20% ;
+    opacity:0.1px;
+    background-position:center;
+    } 
+    .nav-bar{
+    background :black;
+    padding-top:5px;
+    padding-bottom:6px;
+    } 
+    a.active{
+    background:orangered;
+    color:white;
+    }
+    .card-body  {
+    padding-top:20px;
+    padding-bottom:10px;
+    background:white;
+    margin-left:5px;
+    margin-right:5px;
+    }
+    a:hover{
+    background: orange;
+    color:white;
+    padding:10px;
+    color:white;
+    font-size: 16px;
+    margin-left:10px;
+     font-family: Arial, Helvetica, sans-serif;
+     }
+    a{
+    text-decoration:none;
+    padding:10px;
+    color:white;
+    font-size: 16px;
+    margin-left:10px;
+    background: red;
+     font-family: Arial, Helvetica, sans-serif;
+    } 
+    body,html{
+      font-family:Arial,
+      Helvetica, 
+      sans-serif;
+      margin:0px;
+      width:100%;
+      background: #F8F8F8;
+      height:100%;
+    }
+    /* .card-header {
+    } */
+    .description{
+    text-transform: capitalize;
+    color:white;
+    font-size: 20px;
+    top:50%;
+    left:50%;
+    text-align:center;
+    font-family: Arial, Helvetica, sans-serif;
+    } 
+    li{
+    font-family: Arial, Helvetica, sans-serif;
+    padding:5px;
+    font-size: 15px;
+    } 
+    span{
+    margin:10px;
+    font-size: 15px;
+    color:white;
+    padding: 10px;
+    font-family: Arial, Helvetica, sans-serif;
+    } 
+    .bar1,.bar2,.bar3 {
+    background:white;
+    width:40px ;
+    height:5px ;
+    margin:5px ;
+    border:none;
+    } 
+    div{
+    color:black;
+    font-family: Arial, Helvetica, sans-serif;
+    } 
+    div:hover{
+    color:#202020;
+    font-family: Arial, Helvetica, sans-serif;
+    } 
+    .footer{
+    background:#303030;
+    padding-top: 10px;
+    padding-bottom: 100px;
+    font-size: 16px;
+    font-family: Arial, Helvetica, sans-serif;
+    } 
